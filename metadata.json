@@ -1,0 +1,6 @@
+{
+  "name": "Textile ERP Inventory Management Edited",
+  "description": "Production-style Inventory Management Module for Textile & Garment Export: Item Master, Warehouse Master, Stock In/Out, Current Stock, and Low Stock Alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

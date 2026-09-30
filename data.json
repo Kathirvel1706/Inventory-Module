@@ -1,0 +1,1610 @@
+{
+  "nextItemId": 15,
+  "nextWarehouseId": 8,
+  "nextStockInId": 22,
+  "nextStockOutId": 16,
+  "items": [
+    {
+      "id": 1,
+      "code": "FAB001",
+      "name": "100% Cotton Single Jersey 180 GSM",
+      "category": "Fabric",
+      "uom": "Meter",
+      "unit_cost": 185,
+      "reorder_level": 500,
+      "is_active": true,
+      "created_at": "2026-09-29T12:10:51.289Z",
+      "updated_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 2,
+      "code": "FAB002",
+      "name": "Cotton Twill 240 GSM Navy Blue",
+      "category": "Fabric",
+      "uom": "Meter",
+      "unit_cost": 240,
+      "reorder_level": 300,
+      "is_active": true,
+      "created_at": "2026-09-29T12:10:51.289Z",
+      "updated_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 3,
+      "code": "FAB003",
+      "name": "Polyester Micro Polar Fleece",
+      "category": "Fabric",
+      "uom": "Meter",
+      "unit_cost": 165.5,
+      "reorder_level": 200,
+      "is_active": true,
+      "created_at": "2026-09-29T12:10:51.289Z",
+      "updated_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 4,
+      "code": "FAB004",
+      "name": "Rayon Viscose Challis Print",
+      "category": "Fabric",
+      "uom": "Meter",
+      "unit_cost": 195,
+      "reorder_level": 400,
+      "is_active": true,
+      "created_at": "2026-09-29T12:10:51.289Z",
+      "updated_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 5,
+      "code": "YRN001",
+      "name": "30s Combed Cotton Ring Spun Yarn",
+      "category": "Yarn",
+      "uom": "KG",
+      "unit_cost": 310,
+      "reorder_level": 150,
+      "is_active": true,
+      "created_at": "2026-09-29T12:10:51.289Z",
+      "updated_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 6,
+      "code": "YRN002",
+      "name": "150D/48F DTY Polyester Texturized Yarn",
+      "category": "Yarn",
+      "uom": "KG",
+      "unit_cost": 145,
+      "reorder_level": 100,
+      "is_active": true,
+      "created_at": "2026-09-29T12:10:51.289Z",
+      "updated_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 7,
+      "code": "TRM001",
+      "name": "Metal YKK Zipper #5 Brass 65cm",
+      "category": "Trim",
+      "uom": "Pieces",
+      "unit_cost": 18.5,
+      "reorder_level": 1000,
+      "is_active": true,
+      "created_at": "2026-09-29T12:10:51.289Z",
+      "updated_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 8,
+      "code": "TRM002",
+      "name": "Woven Brand Neck Label 35x20mm",
+      "category": "Trim",
+      "uom": "Pieces",
+      "unit_cost": 2.2,
+      "reorder_level": 2500,
+      "is_active": true,
+      "created_at": "2026-09-29T12:10:51.289Z",
+      "updated_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 9,
+      "code": "ACC001",
+      "name": "4-Hole Pearl Polyester Button 18L",
+      "category": "Accessory",
+      "uom": "Pieces",
+      "unit_cost": 0.85,
+      "reorder_level": 5000,
+      "is_active": true,
+      "created_at": "2026-09-29T12:10:51.289Z",
+      "updated_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 10,
+      "code": "TEST_FAB_99",
+      "name": "Test Silk Fabric",
+      "category": "Fabric",
+      "uom": "Meter",
+      "unit_cost": 250,
+      "reorder_level": 100,
+      "is_active": true,
+      "created_at": "2026-09-29T12:11:17.388Z",
+      "updated_at": "2026-09-29T12:11:17.388Z"
+    },
+    {
+      "id": 11,
+      "code": "FAB_VERIFY_4484",
+      "name": "High Tensile Cotton Drill 280 GSM",
+      "category": "Fabric",
+      "uom": "Meter",
+      "unit_cost": 210,
+      "reorder_level": 250,
+      "is_active": true,
+      "created_at": "2026-09-29T12:47:34.610Z",
+      "updated_at": "2026-09-29T12:47:34.610Z"
+    },
+    {
+      "id": 12,
+      "code": "TEST-OOS-0009",
+      "name": "Test Out Of Stock Item",
+      "category": "Trim",
+      "uom": "Meters",
+      "unit_cost": 2.5,
+      "reorder_level": 200,
+      "is_active": true,
+      "created_at": "2026-09-29T15:53:10.116Z",
+      "updated_at": "2026-09-29T15:53:10.116Z"
+    },
+    {
+      "id": 14,
+      "code": "SKU-TEST-1790766103970",
+      "name": "Test Fabric Drill",
+      "category": "Fabric",
+      "uom": "Meter",
+      "unit_cost": 150,
+      "reorder_level": 200,
+      "is_active": true,
+      "created_at": "2026-09-30T11:01:43.997Z",
+      "updated_at": "2026-09-30T11:01:43.997Z"
+    }
+  ],
+  "warehouses": [
+    {
+      "id": 1,
+      "name": "Fabric Warehouse - Ground Floor",
+      "location": "Ground Floor, Bay A-C",
+      "is_active": true,
+      "created_at": "2026-09-29T12:10:51.289Z",
+      "updated_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 2,
+      "name": "Trims & Accessories Store",
+      "location": "1st Floor, Room 104",
+      "is_active": true,
+      "created_at": "2026-09-29T12:10:51.289Z",
+      "updated_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 3,
+      "name": "Yarn Store",
+      "location": "Basement, Zone B",
+      "is_active": true,
+      "created_at": "2026-09-29T12:10:51.289Z",
+      "updated_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 4,
+      "name": "Cutting Floor Transit Store",
+      "location": "2nd Floor Cutting Section",
+      "is_active": true,
+      "created_at": "2026-09-29T12:10:51.289Z",
+      "updated_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 5,
+      "name": "Test Central Storage",
+      "location": "3rd Floor Section D",
+      "is_active": true,
+      "created_at": "2026-09-29T12:11:17.412Z",
+      "updated_at": "2026-09-29T12:11:17.412Z"
+    },
+    {
+      "id": 6,
+      "name": "Zone E Bay 4628",
+      "location": "East Wing Ground Floor",
+      "capacity": 50000,
+      "is_active": true,
+      "created_at": "2026-09-29T12:47:34.632Z",
+      "updated_at": "2026-09-29T12:47:34.632Z"
+    },
+    {
+      "id": 7,
+      "name": "WH-TEST-1790766104026",
+      "location": "Section C Bay 4",
+      "capacity": 30000,
+      "is_active": true,
+      "created_at": "2026-09-30T11:01:44.027Z",
+      "updated_at": "2026-09-30T11:01:44.027Z"
+    }
+  ],
+  "stock_ins": [
+    {
+      "id": 1,
+      "item_id": 1,
+      "warehouse_id": 1,
+      "item_code": "FAB001",
+      "item_name": "100% Cotton Single Jersey 180 GSM",
+      "item_uom": "Meter",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 1200,
+      "activity_date": "2026-09-24",
+      "supplier_reference": "Vardhman Textiles PO-9812",
+      "unit_cost": 185,
+      "created_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 2,
+      "item_id": 2,
+      "warehouse_id": 1,
+      "item_code": "FAB002",
+      "item_name": "Cotton Twill 240 GSM Navy Blue",
+      "item_uom": "Meter",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 850,
+      "activity_date": "2026-09-25",
+      "supplier_reference": "Arvind Mills PO-9815",
+      "unit_cost": 240,
+      "created_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 3,
+      "item_id": 3,
+      "warehouse_id": 1,
+      "item_code": "FAB003",
+      "item_name": "Polyester Micro Polar Fleece",
+      "item_uom": "Meter",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 150,
+      "activity_date": "2026-09-26",
+      "supplier_reference": "Reliance Tex PO-9820",
+      "unit_cost": 165.5,
+      "created_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 4,
+      "item_id": 5,
+      "warehouse_id": 3,
+      "item_code": "YRN001",
+      "item_name": "30s Combed Cotton Ring Spun Yarn",
+      "item_uom": "KG",
+      "warehouse_name": "Yarn Store",
+      "qty": 600,
+      "activity_date": "2026-09-23",
+      "supplier_reference": "KPR Mills PO-9801",
+      "unit_cost": 310,
+      "created_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 5,
+      "item_id": 7,
+      "warehouse_id": 2,
+      "item_code": "TRM001",
+      "item_name": "Metal YKK Zipper #5 Brass 65cm",
+      "item_uom": "Pieces",
+      "warehouse_name": "Trims & Accessories Store",
+      "qty": 4000,
+      "activity_date": "2026-09-25",
+      "supplier_reference": "YKK India Inv #4491",
+      "unit_cost": 18.5,
+      "created_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 6,
+      "item_id": 9,
+      "warehouse_id": 2,
+      "item_code": "ACC001",
+      "item_name": "4-Hole Pearl Polyester Button 18L",
+      "item_uom": "Pieces",
+      "warehouse_name": "Trims & Accessories Store",
+      "qty": 12000,
+      "activity_date": "2026-09-27",
+      "supplier_reference": "Global Button Corp #102",
+      "unit_cost": 0.85,
+      "created_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 7,
+      "item_id": 10,
+      "warehouse_id": 5,
+      "item_code": "TEST_FAB_99",
+      "item_name": "Test Silk Fabric",
+      "item_uom": "Meter",
+      "warehouse_name": "Test Central Storage",
+      "qty": 500,
+      "activity_date": "2026-09-29",
+      "supplier_reference": "Test Supplier PO-1",
+      "unit_cost": 250,
+      "created_at": "2026-09-29T12:11:17.419Z"
+    },
+    {
+      "id": 8,
+      "item_id": 1,
+      "warehouse_id": 3,
+      "item_code": "FAB001",
+      "item_name": "100% Cotton Single Jersey 180 GSM",
+      "item_uom": "Meter",
+      "warehouse_name": "Yarn Store",
+      "qty": 300,
+      "activity_date": "2026-09-29",
+      "supplier_reference": "ABC TEXT",
+      "unit_cost": 184.98,
+      "created_at": "2026-09-29T12:15:09.057Z"
+    },
+    {
+      "id": 9,
+      "item_id": 1,
+      "warehouse_id": 1,
+      "item_code": "FAB001",
+      "item_name": "100% Cotton Single Jersey 180 GSM",
+      "item_uom": "Meter",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 750,
+      "activity_date": "2026-09-29",
+      "supplier_reference": "Vardhman Textiles Ltd (PO-TX-2026-004)",
+      "unit_cost": 185,
+      "po_number": "PO-TX-2026-004",
+      "created_at": "2026-09-29T12:33:15.198Z"
+    },
+    {
+      "id": 10,
+      "item_id": 2,
+      "warehouse_id": 1,
+      "item_code": "FAB002",
+      "item_name": "Cotton Twill 240 GSM Navy Blue",
+      "item_uom": "Meter",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 450,
+      "activity_date": "2026-09-29",
+      "supplier_reference": "Vardhman Textiles Ltd (PO-TX-2026-004)",
+      "unit_cost": 240,
+      "po_number": "PO-TX-2026-004",
+      "created_at": "2026-09-29T12:33:15.199Z"
+    },
+    {
+      "id": 11,
+      "item_id": 3,
+      "warehouse_id": 1,
+      "item_code": "FAB003",
+      "item_name": "Polyester Micro Polar Fleece",
+      "item_uom": "Meter",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 300,
+      "activity_date": "2026-09-29",
+      "supplier_reference": "Vardhman Textiles Ltd (PO-TX-2026-004)",
+      "unit_cost": 165.5,
+      "po_number": "PO-TX-2026-004",
+      "created_at": "2026-09-29T12:33:15.199Z"
+    },
+    {
+      "id": 12,
+      "item_id": 10,
+      "warehouse_id": 1,
+      "item_code": "TEST_FAB_99",
+      "item_name": "Test Silk Fabric",
+      "item_uom": "Meter",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 150,
+      "activity_date": "2026-09-29",
+      "supplier_reference": "Vardhman Textiles Ltd (PO-TX-2026-004)",
+      "unit_cost": 250,
+      "po_number": "PO-TX-2026-004",
+      "created_at": "2026-09-29T12:33:15.200Z"
+    },
+    {
+      "id": 13,
+      "item_id": 11,
+      "warehouse_id": 6,
+      "item_code": "FAB_VERIFY_4484",
+      "item_name": "High Tensile Cotton Drill 280 GSM",
+      "item_uom": "Meter",
+      "warehouse_name": "Zone E Bay 4628",
+      "qty": 600,
+      "activity_date": "2026-09-29",
+      "supplier_reference": "Vardhman Textiles PO-2026-X",
+      "unit_cost": 210,
+      "created_at": "2026-09-29T12:47:34.644Z"
+    },
+    {
+      "id": 14,
+      "item_id": 9,
+      "warehouse_id": 1,
+      "item_code": "ACC001",
+      "item_name": "4-Hole Pearl Polyester Button 18L",
+      "item_uom": "Pieces",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 150,
+      "activity_date": "2026-09-29",
+      "supplier_reference": "Verification GRN #999",
+      "unit_cost": 0.85,
+      "user": "R. Sharma (Dock Storekeeper)",
+      "created_at": "2026-09-29T15:36:03.386Z"
+    },
+    {
+      "id": 15,
+      "item_id": 11,
+      "warehouse_id": 1,
+      "item_code": "FAB_VERIFY_4484",
+      "item_name": "High Tensile Cotton Drill 280 GSM",
+      "item_uom": "Meter",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 500,
+      "activity_date": "2026-09-28",
+      "supplier_reference": "Mill Batch Inward #441",
+      "unit_cost": 210,
+      "user": "R. Sharma (Dock Storekeeper)",
+      "created_at": "2026-09-29T15:36:11.783Z"
+    },
+    {
+      "id": 16,
+      "item_id": 9,
+      "warehouse_id": 1,
+      "item_code": "ACC001",
+      "item_name": "4-Hole Pearl Polyester Button 18L",
+      "item_uom": "Pieces",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 100,
+      "activity_date": "2026-09-29",
+      "supplier_reference": "Restoration Receipt",
+      "unit_cost": 0.85,
+      "user": "R. Sharma (Dock Storekeeper)",
+      "created_at": "2026-09-29T15:52:50.810Z"
+    },
+    {
+      "id": 17,
+      "item_id": 12,
+      "warehouse_id": 1,
+      "item_code": "TEST-OOS-0009",
+      "item_name": "Test Out Of Stock Item",
+      "item_uom": "Meters",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 50,
+      "activity_date": "2026-09-29",
+      "unit_cost": 2.5,
+      "user": "R. Sharma (Dock Storekeeper)",
+      "created_at": "2026-09-29T15:53:10.129Z"
+    },
+    {
+      "id": 18,
+      "item_id": 12,
+      "warehouse_id": 1,
+      "item_code": "TEST-OOS-0009",
+      "item_name": "Test Out Of Stock Item",
+      "item_uom": "Meters",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 300,
+      "activity_date": "2026-09-29",
+      "unit_cost": 2.5,
+      "user": "R. Sharma (Dock Storekeeper)",
+      "created_at": "2026-09-29T15:53:10.144Z"
+    },
+    {
+      "id": 20,
+      "item_id": 14,
+      "warehouse_id": 7,
+      "item_code": "SKU-TEST-1790766103970",
+      "item_name": "Test Fabric Drill",
+      "item_uom": "Meter",
+      "warehouse_name": "WH-TEST-1790766104026",
+      "qty": 500,
+      "activity_date": "2026-09-30",
+      "supplier_reference": "INV-SUP-001",
+      "unit_cost": 150,
+      "user": "R. Sharma (Dock Storekeeper)",
+      "created_at": "2026-09-30T11:01:44.034Z"
+    },
+    {
+      "id": 21,
+      "item_id": 14,
+      "warehouse_id": 7,
+      "item_code": "SKU-TEST-1790766103970",
+      "item_name": "Test Fabric Drill",
+      "item_uom": "Meter",
+      "warehouse_name": "WH-TEST-1790766104026",
+      "qty": 300,
+      "activity_date": "2026-09-30",
+      "supplier_reference": "Test Mills India Pvt Ltd (PO-TX-2026-010)",
+      "unit_cost": 150,
+      "po_number": "PO-TX-2026-010",
+      "created_at": "2026-09-30T11:01:44.130Z"
+    }
+  ],
+  "stock_outs": [
+    {
+      "id": 1,
+      "item_id": 1,
+      "warehouse_id": 1,
+      "item_code": "FAB001",
+      "item_name": "100% Cotton Single Jersey 180 GSM",
+      "item_uom": "Meter",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 350,
+      "activity_date": "2026-09-27",
+      "issued_to": "Garment Unit 1 - Cutting Floor",
+      "created_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 2,
+      "item_id": 2,
+      "warehouse_id": 1,
+      "item_code": "FAB002",
+      "item_name": "Cotton Twill 240 GSM Navy Blue",
+      "item_uom": "Meter",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 600,
+      "activity_date": "2026-09-28",
+      "issued_to": "Sampling & Bulk Cutting",
+      "created_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 3,
+      "item_id": 7,
+      "warehouse_id": 2,
+      "item_code": "TRM001",
+      "item_name": "Metal YKK Zipper #5 Brass 65cm",
+      "item_uom": "Pieces",
+      "warehouse_name": "Trims & Accessories Store",
+      "qty": 1200,
+      "activity_date": "2026-09-28",
+      "issued_to": "Sewing Line 4 (Jacket Order)",
+      "created_at": "2026-09-29T12:10:51.289Z"
+    },
+    {
+      "id": 4,
+      "item_id": 10,
+      "warehouse_id": 5,
+      "item_code": "TEST_FAB_99",
+      "item_name": "Test Silk Fabric",
+      "item_uom": "Meter",
+      "warehouse_name": "Test Central Storage",
+      "qty": 150,
+      "activity_date": "2026-09-29",
+      "issued_to": "Cutting Floor Line 1",
+      "created_at": "2026-09-29T12:11:17.432Z"
+    },
+    {
+      "id": 5,
+      "item_id": 10,
+      "warehouse_id": 5,
+      "item_code": "TEST_FAB_99",
+      "item_name": "Test Silk Fabric",
+      "item_uom": "Meter",
+      "warehouse_name": "Test Central Storage",
+      "qty": 270,
+      "activity_date": "2026-09-29",
+      "issued_to": "Finishing Floor",
+      "created_at": "2026-09-29T12:11:17.454Z"
+    },
+    {
+      "id": 6,
+      "item_id": 1,
+      "warehouse_id": 3,
+      "item_code": "FAB001",
+      "item_name": "100% Cotton Single Jersey 180 GSM",
+      "item_uom": "Meter",
+      "warehouse_name": "Yarn Store",
+      "qty": 200,
+      "activity_date": "2026-09-29",
+      "issued_to": "Sewing Floor - Line 1",
+      "created_at": "2026-09-29T12:18:17.057Z"
+    },
+    {
+      "id": 7,
+      "item_id": 11,
+      "warehouse_id": 6,
+      "item_code": "FAB_VERIFY_4484",
+      "item_name": "High Tensile Cotton Drill 280 GSM",
+      "item_uom": "Meter",
+      "warehouse_name": "Zone E Bay 4628",
+      "qty": 200,
+      "activity_date": "2026-09-29",
+      "issued_to": "Garment Unit 1 - Cutting Floor",
+      "created_at": "2026-09-29T12:47:34.657Z"
+    },
+    {
+      "id": 8,
+      "item_id": 11,
+      "warehouse_id": 6,
+      "item_code": "FAB_VERIFY_4484",
+      "item_name": "High Tensile Cotton Drill 280 GSM",
+      "item_uom": "Meter",
+      "warehouse_name": "Zone E Bay 4628",
+      "qty": 220,
+      "activity_date": "2026-09-29",
+      "issued_to": "Sewing Section",
+      "created_at": "2026-09-29T12:47:34.672Z"
+    },
+    {
+      "id": 9,
+      "item_id": 11,
+      "warehouse_id": 1,
+      "item_code": "FAB_VERIFY_4484",
+      "item_name": "High Tensile Cotton Drill 280 GSM",
+      "item_uom": "Meter",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 120,
+      "activity_date": "2026-09-29",
+      "issued_to": "Cutting Department Line 2",
+      "user": "K. Kumar (Dispatch Officer)",
+      "created_at": "2026-09-29T15:36:11.789Z"
+    },
+    {
+      "id": 10,
+      "item_id": 9,
+      "warehouse_id": 1,
+      "item_code": "ACC001",
+      "item_name": "4-Hole Pearl Polyester Button 18L",
+      "item_uom": "Pieces",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 5,
+      "activity_date": "2026-09-29",
+      "issued_to": "Test Consumption Floor",
+      "user": "K. Kumar (Dispatch Officer)",
+      "created_at": "2026-09-29T15:42:32.285Z"
+    },
+    {
+      "id": 11,
+      "item_id": 9,
+      "warehouse_id": 1,
+      "item_code": "ACC001",
+      "item_name": "4-Hole Pearl Polyester Button 18L",
+      "item_uom": "Pieces",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 100,
+      "activity_date": "2026-09-29",
+      "issued_to": "Test Production Requisition",
+      "user": "K. Kumar (Dispatch Officer)",
+      "created_at": "2026-09-29T15:52:50.799Z"
+    },
+    {
+      "id": 12,
+      "item_id": 12,
+      "warehouse_id": 1,
+      "item_code": "TEST-OOS-0009",
+      "item_name": "Test Out Of Stock Item",
+      "item_uom": "Meters",
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "qty": 50,
+      "activity_date": "2026-09-29",
+      "issued_to": "Exhausted Stock",
+      "user": "K. Kumar (Dispatch Officer)",
+      "created_at": "2026-09-29T15:53:10.135Z"
+    },
+    {
+      "id": 14,
+      "item_id": 14,
+      "warehouse_id": 7,
+      "item_code": "SKU-TEST-1790766103970",
+      "item_name": "Test Fabric Drill",
+      "item_uom": "Meter",
+      "warehouse_name": "WH-TEST-1790766104026",
+      "qty": 200,
+      "activity_date": "2026-09-30",
+      "issued_to": "Cutting Floor",
+      "user": "K. Kumar (Dispatch Officer)",
+      "created_at": "2026-09-30T11:01:44.097Z"
+    },
+    {
+      "id": 15,
+      "item_id": 14,
+      "warehouse_id": 7,
+      "item_code": "SKU-TEST-1790766103970",
+      "item_name": "Test Fabric Drill",
+      "item_uom": "Meter",
+      "warehouse_name": "WH-TEST-1790766104026",
+      "qty": 150,
+      "activity_date": "2026-09-30",
+      "issued_to": "Export Dispatch: Global Fashion Ltd USA (PO-USA-8821)",
+      "created_at": "2026-09-30T11:01:44.136Z"
+    }
+  ],
+  "suppliers": [
+    {
+      "id": 1,
+      "code": "SUP-001",
+      "name": "Vardhman Textiles Ltd",
+      "contact_person": "Rajesh Sharma",
+      "email": "sales@vardhman.com",
+      "phone": "+91 161 2228900",
+      "country": "India",
+      "materials_supplied": "100% Cotton Knits, Combed Yarns",
+      "payment_terms": "Net 30 Days",
+      "lead_time_days": 7,
+      "rating": 4.8,
+      "is_active": true,
+      "created_at": "2026-09-29T12:32:45.698Z"
+    },
+    {
+      "id": 2,
+      "code": "SUP-002",
+      "name": "Arvind Mills Denims & Wovens",
+      "contact_person": "Vikram Patel",
+      "email": "v.patel@arvind.in",
+      "phone": "+91 79 6676 4000",
+      "country": "India",
+      "materials_supplied": "Cotton Twill, Shirting, Denim Fabrics",
+      "payment_terms": "Net 45 Days",
+      "lead_time_days": 10,
+      "rating": 4.6,
+      "is_active": true,
+      "created_at": "2026-09-29T12:32:45.698Z"
+    },
+    {
+      "id": 3,
+      "code": "SUP-003",
+      "name": "YKK Fasteners Corp",
+      "contact_person": "Kenji Sato",
+      "email": "orders@ykk-india.com",
+      "phone": "+91 124 4567890",
+      "country": "Japan/India",
+      "materials_supplied": "Metal, Vislon & Coil Zippers",
+      "payment_terms": "Net 30 Days",
+      "lead_time_days": 5,
+      "rating": 4.9,
+      "is_active": true,
+      "created_at": "2026-09-29T12:32:45.698Z"
+    },
+    {
+      "id": 4,
+      "code": "SUP-004",
+      "name": "KPR Mill Spinning Hub",
+      "contact_person": "Senthil Kumar",
+      "email": "yarn@kprmill.com",
+      "phone": "+91 422 2207777",
+      "country": "India",
+      "materials_supplied": "Carded & Combed Cotton Yarns",
+      "payment_terms": "LC at Sight",
+      "lead_time_days": 4,
+      "rating": 4.7,
+      "is_active": true,
+      "created_at": "2026-09-29T12:32:45.698Z"
+    },
+    {
+      "id": 5,
+      "code": "SUP-005",
+      "name": "Avery Dennison Labeling Solutions",
+      "contact_person": "Elena Rostova",
+      "email": "elena@averydennison.com",
+      "phone": "+1 800 545 5555",
+      "country": "USA/Global",
+      "materials_supplied": "Care Labels, Heat Transfers, Brand Tags",
+      "payment_terms": "Net 30 Days",
+      "lead_time_days": 6,
+      "rating": 4.5,
+      "is_active": true,
+      "created_at": "2026-09-29T12:32:45.699Z"
+    }
+  ],
+  "purchase_orders": [
+    {
+      "id": 9,
+      "po_number": "PO-TX-2026-009",
+      "supplier_id": 1,
+      "supplier_name": "Vardhman Textiles Ltd",
+      "warehouse_id": 1,
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "order_date": "2026-09-29",
+      "expected_date": "2026-10-06",
+      "status": "Sent",
+      "payment_status": "Unpaid",
+      "items": [
+        {
+          "item_id": 1,
+          "item_code": "FAB001",
+          "item_name": "100% Cotton Single Jersey 180 GSM",
+          "uom": "Meter",
+          "order_qty": 750,
+          "unit_cost": 185,
+          "received_qty": 0
+        },
+        {
+          "item_id": 10,
+          "item_code": "TEST_FAB_99",
+          "item_name": "Test Silk Fabric",
+          "uom": "Meter",
+          "order_qty": 150,
+          "unit_cost": 250,
+          "received_qty": 0
+        }
+      ],
+      "total_amount": 176250,
+      "notes": "Automated replenishment PO generated for 2 SKUs below reorder threshold.",
+      "created_at": "2026-09-29T12:38:05.298Z"
+    },
+    {
+      "id": 8,
+      "po_number": "PO-TX-2026-008",
+      "supplier_id": 1,
+      "supplier_name": "Vardhman Textiles Ltd",
+      "warehouse_id": 1,
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "order_date": "2026-09-29",
+      "expected_date": "2026-10-06",
+      "status": "Sent",
+      "payment_status": "Unpaid",
+      "items": [
+        {
+          "item_id": 1,
+          "item_code": "FAB001",
+          "item_name": "100% Cotton Single Jersey 180 GSM",
+          "uom": "Meter",
+          "order_qty": 750,
+          "unit_cost": 185,
+          "received_qty": 0
+        },
+        {
+          "item_id": 10,
+          "item_code": "TEST_FAB_99",
+          "item_name": "Test Silk Fabric",
+          "uom": "Meter",
+          "order_qty": 150,
+          "unit_cost": 250,
+          "received_qty": 0
+        }
+      ],
+      "total_amount": 176250,
+      "notes": "Automated replenishment PO generated for 2 SKUs below reorder threshold.",
+      "created_at": "2026-09-29T12:37:54.159Z"
+    },
+    {
+      "id": 7,
+      "po_number": "PO-TX-2026-007",
+      "supplier_id": 1,
+      "supplier_name": "Vardhman Textiles Ltd",
+      "warehouse_id": 1,
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "order_date": "2026-09-29",
+      "expected_date": "2026-10-06",
+      "status": "Sent",
+      "payment_status": "Unpaid",
+      "items": [
+        {
+          "item_id": 1,
+          "item_code": "FAB001",
+          "item_name": "100% Cotton Single Jersey 180 GSM",
+          "uom": "Meter",
+          "order_qty": 750,
+          "unit_cost": 185,
+          "received_qty": 0
+        },
+        {
+          "item_id": 10,
+          "item_code": "TEST_FAB_99",
+          "item_name": "Test Silk Fabric",
+          "uom": "Meter",
+          "order_qty": 150,
+          "unit_cost": 250,
+          "received_qty": 0
+        }
+      ],
+      "total_amount": 176250,
+      "notes": "Automated replenishment PO generated for 2 SKUs below reorder threshold.",
+      "created_at": "2026-09-29T12:37:05.642Z"
+    },
+    {
+      "id": 6,
+      "po_number": "PO-TX-2026-006",
+      "supplier_id": 1,
+      "supplier_name": "Vardhman Textiles Ltd",
+      "warehouse_id": 1,
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "order_date": "2026-09-29",
+      "expected_date": "2026-10-06",
+      "status": "Sent",
+      "payment_status": "Unpaid",
+      "items": [
+        {
+          "item_id": 1,
+          "item_code": "FAB001",
+          "item_name": "100% Cotton Single Jersey 180 GSM",
+          "uom": "Meter",
+          "order_qty": 750,
+          "unit_cost": 185,
+          "received_qty": 0
+        },
+        {
+          "item_id": 10,
+          "item_code": "TEST_FAB_99",
+          "item_name": "Test Silk Fabric",
+          "uom": "Meter",
+          "order_qty": 150,
+          "unit_cost": 250,
+          "received_qty": 0
+        }
+      ],
+      "total_amount": 176250,
+      "notes": "Automated replenishment PO generated for 2 SKUs below reorder threshold.",
+      "created_at": "2026-09-29T12:36:41.914Z"
+    },
+    {
+      "id": 5,
+      "po_number": "PO-TX-2026-005",
+      "supplier_id": 1,
+      "supplier_name": "Vardhman Textiles Ltd",
+      "warehouse_id": 1,
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "order_date": "2026-09-29",
+      "expected_date": "2026-10-06",
+      "status": "Sent",
+      "payment_status": "Unpaid",
+      "items": [
+        {
+          "item_id": 1,
+          "item_code": "FAB001",
+          "item_name": "100% Cotton Single Jersey 180 GSM",
+          "uom": "Meter",
+          "order_qty": 750,
+          "unit_cost": 185,
+          "received_qty": 0
+        },
+        {
+          "item_id": 10,
+          "item_code": "TEST_FAB_99",
+          "item_name": "Test Silk Fabric",
+          "uom": "Meter",
+          "order_qty": 150,
+          "unit_cost": 250,
+          "received_qty": 0
+        }
+      ],
+      "total_amount": 176250,
+      "notes": "Automated replenishment PO generated for 2 SKUs below reorder threshold.",
+      "created_at": "2026-09-29T12:36:37.330Z"
+    },
+    {
+      "id": 4,
+      "po_number": "PO-TX-2026-004",
+      "supplier_id": 1,
+      "supplier_name": "Vardhman Textiles Ltd",
+      "warehouse_id": 1,
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "order_date": "2026-09-29",
+      "expected_date": "2026-10-06",
+      "status": "Completed",
+      "payment_status": "Unpaid",
+      "items": [
+        {
+          "item_id": 1,
+          "item_code": "FAB001",
+          "item_name": "100% Cotton Single Jersey 180 GSM",
+          "uom": "Meter",
+          "order_qty": 750,
+          "unit_cost": 185,
+          "received_qty": 750
+        },
+        {
+          "item_id": 2,
+          "item_code": "FAB002",
+          "item_name": "Cotton Twill 240 GSM Navy Blue",
+          "uom": "Meter",
+          "order_qty": 450,
+          "unit_cost": 240,
+          "received_qty": 450
+        },
+        {
+          "item_id": 3,
+          "item_code": "FAB003",
+          "item_name": "Polyester Micro Polar Fleece",
+          "uom": "Meter",
+          "order_qty": 300,
+          "unit_cost": 165.5,
+          "received_qty": 300
+        },
+        {
+          "item_id": 10,
+          "item_code": "TEST_FAB_99",
+          "item_name": "Test Silk Fabric",
+          "uom": "Meter",
+          "order_qty": 150,
+          "unit_cost": 250,
+          "received_qty": 150
+        }
+      ],
+      "total_amount": 333900,
+      "notes": "Automated replenishment PO generated for 4 SKUs below reorder threshold.",
+      "created_at": "2026-09-29T12:33:15.182Z"
+    },
+    {
+      "id": 1,
+      "po_number": "PO-TX-2026-001",
+      "supplier_id": 1,
+      "supplier_name": "Vardhman Textiles Ltd",
+      "warehouse_id": 1,
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "order_date": "2026-09-21",
+      "expected_date": "2026-09-28",
+      "status": "Completed",
+      "payment_status": "Paid",
+      "items": [
+        {
+          "item_id": 1,
+          "item_code": "FAB001",
+          "item_name": "100% Cotton Single Jersey 180 GSM",
+          "uom": "Meter",
+          "order_qty": 1200,
+          "unit_cost": 185,
+          "received_qty": 1200
+        }
+      ],
+      "total_amount": 222000,
+      "notes": "Bulk order for Polo Shirt Export SS26",
+      "created_at": "2026-09-29T12:32:45.699Z"
+    },
+    {
+      "id": 2,
+      "po_number": "PO-TX-2026-002",
+      "supplier_id": 2,
+      "supplier_name": "Arvind Mills Denims & Wovens",
+      "warehouse_id": 1,
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "order_date": "2026-09-24",
+      "expected_date": "2026-09-29",
+      "status": "Partially Received",
+      "payment_status": "Partial",
+      "items": [
+        {
+          "item_id": 2,
+          "item_code": "FAB002",
+          "item_name": "Cotton Twill 240 GSM Navy Blue",
+          "uom": "Meter",
+          "order_qty": 1500,
+          "unit_cost": 240,
+          "received_qty": 850
+        }
+      ],
+      "total_amount": 360000,
+      "notes": "Chino Trousers order. Partial lot arrived on Bay 2.",
+      "created_at": "2026-09-29T12:32:45.699Z"
+    },
+    {
+      "id": 3,
+      "po_number": "PO-TX-2026-003",
+      "supplier_id": 3,
+      "supplier_name": "YKK Fasteners Corp",
+      "warehouse_id": 2,
+      "warehouse_name": "Trims & Accessories Store",
+      "order_date": "2026-09-27",
+      "expected_date": "2026-10-02",
+      "status": "Sent",
+      "payment_status": "Unpaid",
+      "items": [
+        {
+          "item_id": 7,
+          "item_code": "TRM001",
+          "item_name": "Metal YKK Zipper #5 Brass 65cm",
+          "uom": "Pieces",
+          "order_qty": 3000,
+          "unit_cost": 18.5,
+          "received_qty": 0
+        }
+      ],
+      "total_amount": 55500,
+      "notes": "Expedited air freight requested for Zara jacket lot",
+      "created_at": "2026-09-29T12:32:45.699Z"
+    },
+    {
+      "id": 10,
+      "po_number": "PO-TX-2026-010",
+      "supplier_id": 6,
+      "supplier_name": "Test Mills India Pvt Ltd",
+      "warehouse_id": 7,
+      "warehouse_name": "WH-TEST-1790766104026",
+      "order_date": "2026-09-30",
+      "expected_date": "2026-10-07",
+      "status": "Completed",
+      "payment_status": "Unpaid",
+      "items": [
+        {
+          "item_id": 14,
+          "item_code": "SKU-TEST-1790766103970",
+          "item_name": "Test Fabric Drill",
+          "uom": "Meter",
+          "order_qty": 300,
+          "unit_cost": 150,
+          "received_qty": 300
+        }
+      ],
+      "total_amount": 45000,
+      "created_at": "2026-09-30T11:01:44.122Z"
+    }
+  ],
+  "dispatches": [
+    {
+      "id": 1,
+      "dispatch_no": "DSP-2026-001",
+      "buyer_name": "H&M Global Sourcing (Stockholm)",
+      "order_ref": "HM-PO-99420 / Style: Slim Polo",
+      "warehouse_id": 1,
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "carrier": "Maersk Sealand Shipping",
+      "tracking_number": "MSKU-88912401",
+      "dispatch_date": "2026-09-27",
+      "destination": "Gothenburg Port, Sweden",
+      "gate_pass_no": "GP-2026-881",
+      "status": "Delivered",
+      "items": [
+        {
+          "item_id": 1,
+          "item_code": "FAB001",
+          "item_name": "100% Cotton Single Jersey 180 GSM",
+          "uom": "Meter",
+          "qty": 350
+        }
+      ],
+      "remarks": "Export quality grade A inspected consignment",
+      "created_at": "2026-09-29T12:32:45.699Z"
+    },
+    {
+      "id": 2,
+      "dispatch_no": "DSP-2026-002",
+      "buyer_name": "Zara Menswear (Inditex Spain)",
+      "order_ref": "IND-9021 / Style: Cargo Chino",
+      "warehouse_id": 1,
+      "warehouse_name": "Fabric Warehouse - Ground Floor",
+      "carrier": "DHL Global Forwarding Air",
+      "tracking_number": "DHL-AIR-772910",
+      "dispatch_date": "2026-09-28",
+      "destination": "Zaragoza Logistics Hub, Spain",
+      "gate_pass_no": "GP-2026-889",
+      "status": "Dispatched",
+      "items": [
+        {
+          "item_id": 2,
+          "item_code": "FAB002",
+          "item_name": "Cotton Twill 240 GSM Navy Blue",
+          "uom": "Meter",
+          "qty": 600
+        }
+      ],
+      "remarks": "Direct factory air dispatch for quick turnaround",
+      "created_at": "2026-09-29T12:32:45.699Z"
+    },
+    {
+      "id": 3,
+      "dispatch_no": "DSP-2026-003",
+      "buyer_name": "Global Fashion Ltd USA",
+      "order_ref": "PO-USA-8821",
+      "warehouse_id": 7,
+      "warehouse_name": "WH-TEST-1790766104026",
+      "carrier": "DHL Express Global",
+      "tracking_number": "TRK-828616",
+      "dispatch_date": "2026-09-30",
+      "destination": "New York Port, USA",
+      "gate_pass_no": "GP-2026-268",
+      "status": "In Transit",
+      "items": [
+        {
+          "item_id": 14,
+          "item_code": "SKU-TEST-1790766103970",
+          "item_name": "Test Fabric Drill",
+          "uom": "Meter",
+          "qty": 150
+        }
+      ],
+      "created_at": "2026-09-30T11:01:44.136Z"
+    }
+  ],
+  "activity_logs": [
+    {
+      "id": 49,
+      "timestamp": "2026-09-30T11:01:44.163Z",
+      "module": "SUPPLIER",
+      "action": "DELETED",
+      "description": "Removed supplier Test Mills India Pvt Ltd (SUP-1790766104110)",
+      "entity_id": 6,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 48,
+      "timestamp": "2026-09-30T11:01:44.144Z",
+      "module": "DISPATCH",
+      "action": "STATUS_CHANGE",
+      "description": "Shipment DSP-2026-003 status updated to In Transit",
+      "entity_id": 3,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 47,
+      "timestamp": "2026-09-30T11:01:44.136Z",
+      "module": "DISPATCH",
+      "action": "DISPATCHED",
+      "description": "Export consignment DSP-2026-003 dispatched to Global Fashion Ltd USA",
+      "entity_id": 3,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 46,
+      "timestamp": "2026-09-30T11:01:44.130Z",
+      "module": "PURCHASE",
+      "action": "RECEIVED",
+      "description": "Auto-received items for PO PO-TX-2026-010 into WH-TEST-1790766104026",
+      "entity_id": 10,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 45,
+      "timestamp": "2026-09-30T11:01:44.122Z",
+      "module": "PURCHASE",
+      "action": "CREATED",
+      "description": "Generated Purchase Order PO-TX-2026-010 for Test Mills India Pvt Ltd ($45000)",
+      "entity_id": 10,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 44,
+      "timestamp": "2026-09-30T11:01:44.112Z",
+      "module": "SUPPLIER",
+      "action": "CREATED",
+      "description": "Enrolled supplier Test Mills India Pvt Ltd (SUP-1790766104110)",
+      "entity_id": 6,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 43,
+      "timestamp": "2026-09-30T11:01:44.098Z",
+      "module": "STOCK_OUT",
+      "action": "ISSUED",
+      "description": "Issued -200 Meter of SKU-TEST-1790766103970 from WH-TEST-1790766104026 to Cutting Floor",
+      "entity_id": 14,
+      "user": "K. Kumar (Dispatch Officer)"
+    },
+    {
+      "id": 42,
+      "timestamp": "2026-09-30T11:01:44.034Z",
+      "module": "STOCK_IN",
+      "action": "RECEIVED",
+      "description": "Received inward +500 Meter of SKU-TEST-1790766103970 into WH-TEST-1790766104026",
+      "entity_id": 20,
+      "user": "R. Sharma (Dock Storekeeper)"
+    },
+    {
+      "id": 41,
+      "timestamp": "2026-09-30T11:01:44.027Z",
+      "module": "WAREHOUSE",
+      "action": "CREATED",
+      "description": "Added new storage facility WH-TEST-1790766104026",
+      "entity_id": 7,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 40,
+      "timestamp": "2026-09-30T11:01:43.997Z",
+      "module": "ITEM",
+      "action": "CREATED",
+      "description": "Registered new SKU SKU-TEST-1790766103970 - Test Fabric Drill",
+      "entity_id": 14,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 36,
+      "timestamp": "2026-09-29T15:53:10.145Z",
+      "module": "STOCK_IN",
+      "action": "RECEIVED",
+      "description": "Received inward +300 Meters of TEST-OOS-0009 into Fabric Warehouse - Ground Floor",
+      "entity_id": 18,
+      "user": "R. Sharma (Dock Storekeeper)"
+    },
+    {
+      "id": 35,
+      "timestamp": "2026-09-29T15:53:10.135Z",
+      "module": "STOCK_OUT",
+      "action": "ISSUED",
+      "description": "Issued -50 Meters of TEST-OOS-0009 from Fabric Warehouse - Ground Floor to Exhausted Stock",
+      "entity_id": 12,
+      "user": "K. Kumar (Dispatch Officer)"
+    },
+    {
+      "id": 34,
+      "timestamp": "2026-09-29T15:53:10.130Z",
+      "module": "STOCK_IN",
+      "action": "RECEIVED",
+      "description": "Received inward +50 Meters of TEST-OOS-0009 into Fabric Warehouse - Ground Floor",
+      "entity_id": 17,
+      "user": "R. Sharma (Dock Storekeeper)"
+    },
+    {
+      "id": 33,
+      "timestamp": "2026-09-29T15:53:10.116Z",
+      "module": "ITEM",
+      "action": "CREATED",
+      "description": "Registered new SKU TEST-OOS-0009 - Test Out Of Stock Item",
+      "entity_id": 12,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 32,
+      "timestamp": "2026-09-29T15:52:50.811Z",
+      "module": "STOCK_IN",
+      "action": "RECEIVED",
+      "description": "Received inward +100 Pieces of ACC001 into Fabric Warehouse - Ground Floor",
+      "entity_id": 16,
+      "user": "R. Sharma (Dock Storekeeper)"
+    },
+    {
+      "id": 31,
+      "timestamp": "2026-09-29T15:52:50.800Z",
+      "module": "STOCK_OUT",
+      "action": "ISSUED",
+      "description": "Issued -100 Pieces of ACC001 from Fabric Warehouse - Ground Floor to Test Production Requisition",
+      "entity_id": 11,
+      "user": "K. Kumar (Dispatch Officer)"
+    },
+    {
+      "id": 30,
+      "timestamp": "2026-09-29T15:42:32.286Z",
+      "module": "STOCK_OUT",
+      "action": "ISSUED",
+      "description": "Issued -5 Pieces of ACC001 from Fabric Warehouse - Ground Floor to Test Consumption Floor",
+      "entity_id": 10,
+      "user": "K. Kumar (Dispatch Officer)"
+    },
+    {
+      "id": 29,
+      "timestamp": "2026-09-29T15:36:11.789Z",
+      "module": "STOCK_OUT",
+      "action": "ISSUED",
+      "description": "Issued -120 Meter of FAB_VERIFY_4484 from Fabric Warehouse - Ground Floor to Cutting Department Line 2",
+      "entity_id": 9,
+      "user": "K. Kumar (Dispatch Officer)"
+    },
+    {
+      "id": 28,
+      "timestamp": "2026-09-29T15:36:11.784Z",
+      "module": "STOCK_IN",
+      "action": "RECEIVED",
+      "description": "Received inward +500 Meter of FAB_VERIFY_4484 into Fabric Warehouse - Ground Floor",
+      "entity_id": 15,
+      "user": "R. Sharma (Dock Storekeeper)"
+    },
+    {
+      "id": 27,
+      "timestamp": "2026-09-29T15:36:03.387Z",
+      "module": "STOCK_IN",
+      "action": "RECEIVED",
+      "description": "Received inward +150 Pieces of ACC001 into Fabric Warehouse - Ground Floor",
+      "entity_id": 14,
+      "user": "R. Sharma (Dock Storekeeper)"
+    },
+    {
+      "id": 26,
+      "timestamp": "2026-09-29T12:47:34.673Z",
+      "module": "STOCK_OUT",
+      "action": "ISSUED",
+      "description": "Issued -220 Meter of FAB_VERIFY_4484 from Zone E Bay 4628 to Sewing Section",
+      "entity_id": 8,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 25,
+      "timestamp": "2026-09-29T12:47:34.657Z",
+      "module": "STOCK_OUT",
+      "action": "ISSUED",
+      "description": "Issued -200 Meter of FAB_VERIFY_4484 from Zone E Bay 4628 to Garment Unit 1 - Cutting Floor",
+      "entity_id": 7,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 24,
+      "timestamp": "2026-09-29T12:47:34.645Z",
+      "module": "STOCK_IN",
+      "action": "RECEIVED",
+      "description": "Received inward +600 Meter of FAB_VERIFY_4484 into Zone E Bay 4628",
+      "entity_id": 13,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 23,
+      "timestamp": "2026-09-29T12:47:34.632Z",
+      "module": "WAREHOUSE",
+      "action": "CREATED",
+      "description": "Added new storage facility Zone E Bay 4628",
+      "entity_id": 6,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 22,
+      "timestamp": "2026-09-29T12:47:34.611Z",
+      "module": "ITEM",
+      "action": "CREATED",
+      "description": "Registered new SKU FAB_VERIFY_4484 - High Tensile Cotton Drill 280 GSM",
+      "entity_id": 11,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 21,
+      "timestamp": "2026-09-29T12:39:25.877Z",
+      "module": "DISPATCH",
+      "action": "STATUS_CHANGE",
+      "description": "Shipment DSP-2026-001 status updated to Delivered",
+      "entity_id": 1,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 20,
+      "timestamp": "2026-09-29T12:38:05.299Z",
+      "module": "PURCHASE",
+      "action": "CREATED",
+      "description": "Generated Purchase Order PO-TX-2026-009 for Vardhman Textiles Ltd ($176250)",
+      "entity_id": 9,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 19,
+      "timestamp": "2026-09-29T12:37:54.160Z",
+      "module": "PURCHASE",
+      "action": "CREATED",
+      "description": "Generated Purchase Order PO-TX-2026-008 for Vardhman Textiles Ltd ($176250)",
+      "entity_id": 8,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 18,
+      "timestamp": "2026-09-29T12:37:05.642Z",
+      "module": "PURCHASE",
+      "action": "CREATED",
+      "description": "Generated Purchase Order PO-TX-2026-007 for Vardhman Textiles Ltd ($176250)",
+      "entity_id": 7,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 17,
+      "timestamp": "2026-09-29T12:36:41.914Z",
+      "module": "PURCHASE",
+      "action": "CREATED",
+      "description": "Generated Purchase Order PO-TX-2026-006 for Vardhman Textiles Ltd ($176250)",
+      "entity_id": 6,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 16,
+      "timestamp": "2026-09-29T12:36:37.331Z",
+      "module": "PURCHASE",
+      "action": "CREATED",
+      "description": "Generated Purchase Order PO-TX-2026-005 for Vardhman Textiles Ltd ($176250)",
+      "entity_id": 5,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 15,
+      "timestamp": "2026-09-29T12:34:53.859Z",
+      "module": "DISPATCH",
+      "action": "STATUS_CHANGE",
+      "description": "Shipment DSP-2026-002 status updated to Dispatched",
+      "entity_id": 2,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 14,
+      "timestamp": "2026-09-29T12:34:52.282Z",
+      "module": "DISPATCH",
+      "action": "STATUS_CHANGE",
+      "description": "Shipment DSP-2026-002 status updated to Prepared",
+      "entity_id": 2,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 13,
+      "timestamp": "2026-09-29T12:34:49.682Z",
+      "module": "DISPATCH",
+      "action": "STATUS_CHANGE",
+      "description": "Shipment DSP-2026-002 status updated to Delivered",
+      "entity_id": 2,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 12,
+      "timestamp": "2026-09-29T12:33:15.200Z",
+      "module": "PURCHASE",
+      "action": "RECEIVED",
+      "description": "Auto-received items for PO PO-TX-2026-004 into Fabric Warehouse - Ground Floor",
+      "entity_id": 4,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 11,
+      "timestamp": "2026-09-29T12:33:15.200Z",
+      "module": "STOCK_IN",
+      "action": "RECEIVED",
+      "description": "Received inward +150 Meter of TEST_FAB_99 into Fabric Warehouse - Ground Floor",
+      "entity_id": 12,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 10,
+      "timestamp": "2026-09-29T12:33:15.199Z",
+      "module": "STOCK_IN",
+      "action": "RECEIVED",
+      "description": "Received inward +300 Meter of FAB003 into Fabric Warehouse - Ground Floor",
+      "entity_id": 11,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 9,
+      "timestamp": "2026-09-29T12:33:15.199Z",
+      "module": "STOCK_IN",
+      "action": "RECEIVED",
+      "description": "Received inward +450 Meter of FAB002 into Fabric Warehouse - Ground Floor",
+      "entity_id": 10,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 8,
+      "timestamp": "2026-09-29T12:33:15.198Z",
+      "module": "STOCK_IN",
+      "action": "RECEIVED",
+      "description": "Received inward +750 Meter of FAB001 into Fabric Warehouse - Ground Floor",
+      "entity_id": 9,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 7,
+      "timestamp": "2026-09-29T12:33:15.183Z",
+      "module": "PURCHASE",
+      "action": "CREATED",
+      "description": "Generated Purchase Order PO-TX-2026-004 for Vardhman Textiles Ltd ($333900)",
+      "entity_id": 4,
+      "user": "Inventory Storekeeper"
+    },
+    {
+      "id": 1,
+      "timestamp": "2026-09-23",
+      "module": "STOCK_IN",
+      "action": "RECEIVED",
+      "description": "Received 600 KG 30s Combed Cotton Yarn from KPR Mill",
+      "entity_id": "YRN001",
+      "user": "Basement Yarn Supervisor"
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-09-24",
+      "module": "STOCK_IN",
+      "action": "RECEIVED",
+      "description": "Received 1200 Meter Cotton Jersey from Vardhman Textiles PO-9812",
+      "entity_id": "FAB001",
+      "user": "Receiving Dock Storekeeper"
+    },
+    {
+      "id": 3,
+      "timestamp": "2026-09-25",
+      "module": "STOCK_IN",
+      "action": "RECEIVED",
+      "description": "Received 4000 Pieces YKK Zippers from YKK Fasteners",
+      "entity_id": "TRM001",
+      "user": "Trims Store Supervisor"
+    },
+    {
+      "id": 4,
+      "timestamp": "2026-09-27",
+      "module": "STOCK_OUT",
+      "action": "ISSUED",
+      "description": "Issued 350 Meter Cotton Jersey to Garment Unit 1 - Cutting Floor",
+      "entity_id": "FAB001",
+      "user": "Cutting Floor Store"
+    },
+    {
+      "id": 5,
+      "timestamp": "2026-09-28",
+      "module": "DISPATCH",
+      "action": "DISPATCHED",
+      "description": "Export Consignment DSP-2026-002 dispatched to Zara Menswear (Inditex)",
+      "entity_id": "DSP-2026-002",
+      "user": "Shipping Officer"
+    },
+    {
+      "id": 6,
+      "timestamp": "2026-09-29T12:32:45.699Z",
+      "module": "SYSTEM",
+      "action": "HEALTH_CHECK",
+      "description": "Automated inventory balance sync verified successfully",
+      "entity_id": "SYSTEM",
+      "user": "ERP Engine"
+    }
+  ],
+  "nextSupplierId": 7,
+  "nextPOId": 11,
+  "nextDispatchId": 4,
+  "nextLogId": 50
+}
